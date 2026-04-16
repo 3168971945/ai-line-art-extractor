@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI AI Line Art Extractor** is a high-performance web tool that automates the tedious task of tracing. By analyzing image structures and contours, it generates clean, high-resolution sketches from any image in seconds
+The **SPAI AI Line Art Extractor** is a high-performance web tool that automates the tedious task of tracing. By analyzing image structures and contours, it generates clean, high-resolution sketches from any image in seconds。
 
 ### Key Features
 *   **✨ Intelligent Extraction:** Accurately identifies character hair, clothing folds, and complex textures
