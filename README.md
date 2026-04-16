@@ -44,7 +44,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 我们的 AI 模型针对不同领域进行了深度优化：
 
 #### 1. 动漫线稿生成 (Anime Lineart)
-智能识别二次元角色，生成适合上色的干净底稿。
+智能识别二次元角色，生成适合上色的干净底稿
 | 处理前 (Before) | 处理后 (After) |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/VUa9l4Sz.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/TSLuqV9s.webp" width="350"> |
