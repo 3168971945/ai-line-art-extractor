@@ -56,7 +56,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/ts87eI2R.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/bjRf96wG.webp" width="350"> |
 
 #### 3. 宠物/人像细节提取 (Portrait & Pets)
-精细提取毛发走向与五官轮廓，保留神态特征。
+精细提取毛发走向与五官轮廓，保留神态特征
 | 宠物线稿提取 | 人像艺术转换 |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/HCxaCi1X.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/vxSbZ0dk.webp" width="350"> |
