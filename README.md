@@ -78,7 +78,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 <details>
 <summary><strong>生成的线稿可以直接商用吗？</strong></summary>
-<p>本平台生成的线稿可广泛用于个人练习、设计素材准备。商业用途建议您基于自身拥有的原图版权进行，AI 仅作为提效工具。</p>
+<p>本平台生成的线稿可广泛用于个人练习、设计素材准备。商业用途建议您基于自身拥有的原图版权进行，AI 仅作为提效工具</p>
 </details>
 
 <details>
