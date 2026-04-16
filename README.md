@@ -88,7 +88,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 <details>
 <summary><strong>模糊的低质量图像能提取吗？</strong></summary>
-<p>可以。AI 内置了图像增强功能，可在提取线条前先优化轮廓，即使原图质量一般也能输出清晰的线稿。</p>
+<p>可以。AI 内置了图像增强功能，可在提取线条前先优化轮廓，即使原图质量一般也能输出清晰的线稿</p>
 </details>
 
 ---
