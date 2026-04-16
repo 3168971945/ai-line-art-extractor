@@ -22,7 +22,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 *   **🎭 Multi-Model Support:** Dedicated models for **Anime, Architecture, Pets, and Portraits** 。
 *   **⚡ Rapid GPU Rendering:** Complete the process in under 30 seconds—far faster than manual tracing 。
 *   **💰 100% Free & Online:** No installation required. Download high-definition results instantly 。
-*   **🛡️ Privacy First:** All images are processed via encrypted transmission and automatically cleared after use.
+*   **🛡️ Privacy First:** All images are processed via encrypted transmission and automatically cleared after use. 
 
 **[➡️ Convert Your Photos to Professional Sketches for Free](https://www.sipingseo.com/zh/line-art-extract/ai-line-art-extractor)**
 
@@ -34,7 +34,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 | 功能 | 优势 | 描述 |
 | :---: | :--- | :--- |
-| 🪄 | **轮廓变线稿，一键提取** | 仅需上传图片，AI 即可精准识别边缘特征，输出清晰线条，极大降低描线成本 |
+| 🪄 | **轮廓变线稿，一键提取** | 仅需上传图片，AI 即可精准识别边缘特征，输出清晰线条，极大降低描线成本 。 |
 | 🖌️ | **无需手绘技，立得专业稿** | AI 智能分析图像结构，自动优化线条粗细变化，呈现原汁原味的手绘感 |
 | 📦 | **场景全覆盖，创作任施展** | 支持从二次元角色到硬核建筑的全品类提取，满足多元化的设计与绘画需求 |
 | ⚡ | **免装免注册，开机即可用** | 全流程在线免费完成，无需下载庞大的软件，打开浏览器即可随时开启创作 |
