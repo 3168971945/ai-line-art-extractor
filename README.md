@@ -50,7 +50,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/VUa9l4Sz.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/TSLuqV9s.webp" width="350"> |
 
 #### 2. 建筑速写转换 (Architectural Sketch)
-识别透视线条与结构，助力设计师快速获取建筑草图。
+识别透视线条与结构，助力设计师快速获取建筑草图
 | 处理前 (Before) | 处理后 (After) |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/ts87eI2R.webp" width="350"> | <img src="https://img.sipingseo.com/file/ai-line-art-extractor/bjRf96wG.webp" width="350"> |
