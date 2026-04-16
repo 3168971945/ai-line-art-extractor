@@ -5,7 +5,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-extract/ai-line-art-extractor)
 [![User Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-extract/ai-line-art-extractor)
 
-**SPAI 线稿助理是一款专业的在线 AI 图像处理工具。它利用先进的边缘检测与深度学习算法，能够一键将任何彩色照片（动漫、建筑、人像、宠物）转换为清晰、流畅的高质量手绘线稿。无需手绘基础，即可瞬间获得专业级的绘画底稿。**
+**SPAI 线稿助理是一款专业的在线 AI 图像处理工具。它利用先进的边缘检测与深度学习算法，能够一键将任何彩色照片（动漫、建筑、人像、宠物）转换为清晰、流畅的高质量手绘线稿。无需手绘基础，即可瞬间获得专业级的绘画底稿**
 
 ## ➡️ **[立即体验一键线稿提取 | Start Extracting Line Art Now](https://www.sipingseo.com/zh/line-art-extract/ai-line-art-extractor)**
 
