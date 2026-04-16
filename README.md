@@ -65,7 +65,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 1.  **上传图片**: 选择您需要转换的照片（支持 JPEG/PNG/WEBP，最大 24MB）
 2.  **描述风格**: 输入您的线条风格需求。*例如：“提取精细的动漫线稿，线条流畅”*
-3.  **选择模型**: 根据图像类型选择 `Anime`、`Architect` 或 `LineArt` 专业模型。
+3.  **选择模型**: 根据图像类型选择 `Anime`、`Architect` 或 `LineArt` 专业模型
 4.  **下载原图**: 确认线稿满意后，点击下载高清无水印素材。
 
 ### ⚙️ 支持的模型引擎 (AI Engines)
